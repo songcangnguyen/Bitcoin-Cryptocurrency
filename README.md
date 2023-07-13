@@ -9,4 +9,6 @@ The project uses data collected on the 6th of December 2017 when Bitcoin has a m
 * Visualize the volatility in cryptocurrencies (Daily and Weekly) (Some coins increase 800% daily)
 * Top 10 biggest gainers and top 10 losers in cryptocurrency market capitalization.
 * Classify dataset based on Investopedia's capitalization for company stocks
+![image](https://github.com/songcangnguyen/Bitcoin-Cryptocurrency/assets/109171837/8f1bd8cd-a9de-49b4-be78-8714e538a7eb)
 
+![image](https://github.com/songcangnguyen/Bitcoin-Cryptocurrency/assets/109171837/0eb0d2dc-f897-48f2-90c4-ab65379a5bd2)
